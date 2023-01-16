@@ -1,4 +1,4 @@
-# baca-quran.id
+# quran2.pakteguh.com
 
 ![Nuxt TypeScript](https://img.shields.io/badge/Nuxt-TypeScript-blue.svg)
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg)](#contributors)
@@ -14,17 +14,8 @@
 
 ## Live Website
 
-<https://www.baca-quran.id/>
+<http://quran2.pakteguh.com/>
 
-## Blog
-
-- Repo: https://github.com/mazipan-quran-offline/tulisan
-- Live: https://www.baca-quran.id/tulisan/
-
-## Stories
-
-- Repo: https://github.com/mazipan-quran-offline/stories
-- Live: https://www.baca-quran.id/stories/
 
 ## Screenshoot
 
